@@ -1,7 +1,7 @@
 Run Tic Tac Toe Game on your localhost
 
 **Clone the Repository**
-git clone https://github.com/himanshu2285/Tic-Tac-Toe.git
+git clone https://github.com/himanshu2285/Tic-Tac-Toe.git  
 cd Tic-Tac-Toe
 
 1. Create a virtual environment:
